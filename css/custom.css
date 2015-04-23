@@ -1,0 +1,31 @@
+.navbar li a {
+	font-weight: 600 !important;
+}
+#index-brand {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: white;
+}
+
+.jumbotron img{
+	opacity: .4;
+}
+
+#about-subheading{
+	color: black;
+}
+.lang-header {
+	text-align: center;
+}
+
+.tools-header{
+	text-align: center;
+}
+
+.operating-systems {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
