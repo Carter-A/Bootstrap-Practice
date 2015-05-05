@@ -1,5 +1,17 @@
-.navbar li a {
+body{
+	margin:10px;
+}
+
+h4, h2, h5, h1 {
 	font-weight: 600 !important;
+}
+
+.navbar-custom .nav li a {
+	font-weight: 600 !important;
+}
+
+.navbar-about-me li a{
+	color: black !important;
 }
 #index-brand {
 	font-family: 'Lato', sans-serif;

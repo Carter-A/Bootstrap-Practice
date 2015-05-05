@@ -9,14 +9,14 @@
     <meta name="description" content="Andrew Carter. A front end web developer.">
     <meta name="author" content="Andrew Carter">
     <link rel="icon" href="img/shortcut-icon.ico">
-    <title>Andrew Carter | Web Developer</title>
+    <title><?php echo $title;?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/clean-blog.min.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
 
     <!-- Custom Fonts -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
