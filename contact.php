@@ -64,6 +64,11 @@ $title = 'Contact';
                     </div>
                 </form>
             </div>
+            <div class="col-md-2 col-sm-1 contact-email">
+                <h4>Andrew Carter</h4>
+                <p><b>Email:</b> carter.s.andrew@gmail.com</p>
+                <p><b>Location:</b> Cambridge, ON</p>
+            </div>
         </div>
     </div>
 

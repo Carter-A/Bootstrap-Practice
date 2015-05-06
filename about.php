@@ -27,9 +27,9 @@ $title = 'About';
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
+                <p style="text-indent:50px;">Hi. You've reached my personal information page of this website. This is a bit more about who I am as a person. My interests, hobbies, and life outside of web development.</p>
+                <p style="text-indent:50px;">I am a large advocate for community and the people around you which motivated my move to the smaller town of Galt in Cambridge, ON. I love the outdoors, nature, the country and don't understand how someone could live in a city like NY. I'd quicker grab my bike and go for a ride through some trees than suffer through a subway ride in the urban jungle (which I did everyday during high school). I also love dogs and frequently volunteer to dog sit for any friend who mentions a trip out of town. As soon as I am more secure in a permanent residence and feel comfortable with the responsibility I will have more than one furry friend.</p>
+                <p style="text-indent:50px;">I used to play badminton competitively. Then moved on to rugby, however the injuries were causing me to miss work so I had to find a safer sport. Currently I am mountain biking and power lifting to give my body a rest from sitting at a computer 8 hours at a time.</p>
             </div>
         </div>
     </div>
